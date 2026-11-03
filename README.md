@@ -43,7 +43,7 @@ Paso 7: Conectar con GitHb y subir el proyecto
 
         *Asegurar que la rama principal se llame main:
 
-        ![alt text](image-6.png)
+![alt text](image-6.png)
 
         *Vincular tu repositorio local con GitHub
         Este comando conecta la carpeta con el repositorio exacto que se creo en la web(remote add origin):
