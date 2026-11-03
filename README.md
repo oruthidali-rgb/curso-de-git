@@ -68,3 +68,4 @@ Una vez que se ejecuto el último comando y termine de cargar, me dirigi al nave
     *Dificultad 3: No entendia para que servia commit y como se utilizaba, entonces le pregunte a Gemini y me explico de forma detallada para que sirve y el porque de  la frase posterior al comando ("") 
     *Dificultad 4: Para verificar qye funciono actualice el navegador pero no se veian mis anotaciones y unicamente se veia la primera pregunta y las imagenes como archivos, asi que volvi a preguntar a Gemini y me dijo que debia dejar espacios entre cada imagen y su anotacion
 
+#Todo lo hice en la terminal de Windows Powershell, porque a la de bash no le entendi en como encontrar el archivo.
