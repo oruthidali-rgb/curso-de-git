@@ -60,4 +60,11 @@ Paso 7: Conectar con GitHb y subir el proyecto
 #¿Cómo verificar que funcionó?
 Una vez que se ejecuto el último comando y termine de cargar, me dirigi al navegador web, actualice la página de mi repositorio y vi que mi archivo README.md y mis cambios ya aparecen publicados correctamente en la plataforma.
 
+![alt text](image-9.png)
+
+#¿Qué dificultades encontraste y cómo las resolviste?
+    *Dificultad 1: Me frustre porque no le entendia al curso, asi que busque otro curso y al final le entendi a los dos.
+    *Dificultad 2: Me emocione navegando por la carpeta desde la terminal y luego ya no queria abrir, por lo que borre la carpeta y cree otra.
+    *Dificultad 3: No entendia para que servia commit y como se utilizaba, entonces le pregunte a Gemini y me explico de forma detallada para que sirve y el porque de  la frase posterior al comando ("") 
+    *Dificultad 4: Para verificar qye funciono actualice el navegador pero no se veian mis anotaciones y unicamente se veia la primera pregunta y las imagenes como archivos, asi que volvi a preguntar a Gemini y me dijo que debia dejar espacios entre cada imagen y su anotacion
 
